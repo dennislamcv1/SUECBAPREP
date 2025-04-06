@@ -1,5 +1,5 @@
 # SUECBAPREP
-## Business Analyst (ECBA) Certificate Preparation Specialization
+## Business Analyst (ECBA) Certificate Preparation Specialization (3 course series)
 
 The ECBA Entry Certificate is an industry-recognized certification offered by the International Institute of Business Analysis (IIBA). It is the ideal certification for a business analyst keen to kick-start their career. This Business Analyst (ECBA) Certificate Preparationspecialization helps you to brush up on your knowledge and prepare for the ECBA certification exam with confidence. 
 
